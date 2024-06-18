@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOFWBxN1FKABxr2j1yPmW4pwStQPU-ND5sHVfp5xgiQ&s);
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    ;
+
+    
+
+}
+.banner{
+    border: 10px solid blue;
+    background-color: blue;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    margin: top 2px;
+    margin: 3px;
+}
+
+.Discord{
+ filter: brightness(1000%);
+}
+
+.spopinbanner{
+    display: flex;
+    align-content:space-between;
+}
+
+#SpopStore{
+    font-size: 50px;
+    color: yellow;
+
+}
+#Spoplogo{
+    margin-left: 124px;
+}
+
+
+.Parede{
+    background-color: rgb(5, 29, 21); height: auto;
+    padding: 1px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.Parede1image1{
+    height: 300px;
+    width: 400px;
+
+    flex-direction: column;
+
+
+}
+
+.holymoly{
+    background-color: yellow;
+}
+
+.card1{
+    background-color: blue;
+    width: 350px;
+    height: 440px;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: row;
+    margin-top: 60px;
+}
